@@ -1,4 +1,4 @@
-# Android device tree for Infinix Infinix X682B (Infinix-X682B)
+# Android device tree for Infinix Infinix Hot 10 (Infinix-X682B)
 
 ```
 #
